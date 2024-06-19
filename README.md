@@ -22,6 +22,8 @@ Here are some of my notable projects:
 1. [Snake Game](https://github.com/chwaleed/Snake-Game) - A classic Snake Game implementation focusing on game logic. Control the snake to eat food pellets, grow longer, and avoid collisions. Simple yet addictive gameplay.
 2. [Student Login System](https://github.com/chwaleed/Students-Login-System-C-) -  A basic Student login System implementation of logic of find the user matching the username and password if exists and give the access of the portal.If the username or password does not match feature to forget password.
 3. [Resturant Site](https://caterserv-project.netlify.app/) - A Resultrant Site with modern frond-end with responsive design. Using HTLM,CSS,JavaScript and React. Fully responsive font-end projecct.
+4. [Shopping Site](https://e-commerce-project-site.netlify.app/) - Front-end Project of a shopping website in React Js. Dynamic Data feching and displaying the products.
+5. [Tools Website](https://st-tools.netlify.app/) - A tools Website for students to find CPGA and convert their text into lower, upper or any format they want. We also working on adding new features.
 
 Feel free to explore more projects in my repositories!
 
