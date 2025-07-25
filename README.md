@@ -1,38 +1,49 @@
 
 # Welcome to Muhammad Waleed's GitHub Profile!
 
-👋 Hi there! Welcome to my GitHub profile. I'm Muhammad Waleed, a passionate web developer who loves building amazing things for the web. Here you'll find a collection of my projects, contributions, and maybe a few surprises. Feel free to explore, fork, and contribute!
+👋 Hi there! Welcome to my GitHub profile. I'm Muhammad Waleed, a passionate full-stack developer who loves building amazing things for the web. Here you'll find a collection of my projects, contributions, and coding journey.
 
 ## About Me
 
-- 💻 I'm a web developer with 1.5 years of experience in React.
-- 🌐 I'm enthusiastic about front-end development, back-end development, and everything in between.
+- 💻 I'm a full-stack developer with 3+ years of experience in modern web technologies.
+- 🌐 I'm enthusiastic about front-end development, back-end development, real-time applications, and everything in between.
 - 🎓 I hold a degree/certification in FSc in Pakistan. Due to my keen interest in development I started web development.
 - 📫 You can reach me at chwaleeedmueez@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)!
 
 ## What I'm Working On
 
-- 🚀 Currently, I'm focusing on backend development.
-- 🌱 I’m currently learning Sass, Tailwaind and React with Next Js.
+- 🚀 Currently, I'm focusing on full-stack development with TypeScript.
+- 🌱 I'm currently working on real-time applications and e-commerce solutions.
+- 💡 Exploring advanced backend development with Nest.js and modern frontend frameworks.
 
 ## My Projects
 
 Here are some of my notable projects:
 
-1. [Snake Game](https://github.com/chwaleed/Snake-Game) - A classic Snake Game implementation focusing on game logic. Control the snake to eat food pellets, grow longer, and avoid collisions. Simple yet addictive gameplay.
-2. [Student Login System](https://github.com/chwaleed/Students-Login-System-C-) -  A basic Student login System implementation of logic of find the user matching the username and password if exists and give the access of the portal.If the username or password does not match feature to forget password.
-3. [Resturant Site](https://caterserv-project.netlify.app/) - A Resultrant Site with modern frond-end with responsive design. Using HTLM,CSS,JavaScript and React. Fully responsive font-end projecct.
-4. [Shopping Site](https://e-commerce-project-site.netlify.app/) - Front-end Project of a shopping website in React Js. Dynamic Data feching and displaying the products.
-5. [Tools Website](https://st-tools.netlify.app/) - A tools Website for students to find CPGA and convert their text into lower, upper or any format they want. We also working on adding new features.
+1. **[Watch Store](https://github.com/chwaleed/watchstore)** - An e-commerce watch store built with Next.js and Nest.js. Features modern TypeScript architecture, responsive design, and full-stack implementation.
+
+2. **[Real-Time Chat App](https://github.com/chwaleed/Real-Time-Chat-App)** - A real-time messaging application with live communication features. Built with JavaScript and real-time technologies for seamless user interaction.
+
+3. **[Local Network Collaborative Drawing Pad](https://github.com/chwaleed/Local-Network-Collaborative-Drawing-Pad)** - A web application where users can collaborate on drawing in real-time over local networks. Features session management and live synchronization.
+
+4. **[Local Send Clone](https://github.com/chwaleed/local-send-clone)** - A file sharing application clone that enables easy file transfer between devices on the same network.
+
+5. **[Tip-Tap Content Editor](https://github.com/Zahid-Alee/Tip-Tap-CP)** - A rich text editor project built with TypeScript and SCSS, featuring modern content editing capabilities.
+
+6. **[Basic Dept Animated Site](https://github.com/chwaleed/basic-dept-animated-site)** - An animated website showcasing modern web animations and interactive design elements.
+
+7. **[LeetCode Solutions](https://github.com/chwaleed/LeetCode)** - My collection of algorithm and data structure solutions, demonstrating problem-solving skills and coding proficiency.
 
 Feel free to explore more projects in my repositories!
 
 ## My Skills
 
-- **Languages:** HTML, CSS, JavaScript, C++.
-- **Frameworks/Libraries:** React.js, Bootstrap, Framer Motion, Gsap, Tailwaind.
-- **Tools:** Git, VS Code.
-- **Others:** Responsive Design, RESTful APIs, UI/UX Design.
+- **Languages:** HTML, CSS, JavaScript, TypeScript, C++
+- **Frontend:** React.js, Next.js, Bootstrap, Tailwind CSS, SCSS, Framer Motion, GSAP
+- **Backend:** Nest.js, Node.js, RESTful APIs
+- **Real-time Technologies:** WebSockets, Socket.io, Real-time communication
+- **Tools:** Git, VS Code, Docker
+- **Others:** Responsive Design, UI/UX Design, Full-stack Development, E-commerce Solutions
 
 ## Get in Touch
 
@@ -47,4 +58,3 @@ If you find any of my projects helpful or interesting, consider giving them a �
 ## Thank You
 
 Thank you for visiting my GitHub profile! Feel free to reach out and connect. Let's build something awesome together! 😊
-
