@@ -5,34 +5,39 @@
 
 ## About Me
 
-- 💻 I'm a web developer with 1.5 years of experience in React.
-- 🌐 I'm enthusiastic about front-end development, back-end development, and everything in between.
-- 🎓 I hold a degree/certification in FSc in Pakistan. Due to my keen interest in development I started web development.
+- 💻 I'm a full-stack web developer with experience in React, TypeScript, and modern backend technologies like Nest.js.
+- 🌐 I'm enthusiastic about front-end development, back-end development, real-time applications, and everything in between.
+- 🎓 I hold a degree/certification in FSc in Pakistan. Due to my keen interest in development I started web development and have evolved into full-stack development.
 - 📫 You can reach me at chwaleeedmueez@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)!
 
 ## What I'm Working On
 
-- 🚀 Currently, I'm focusing on backend development.
-- 🌱 I’m currently learning Sass, Tailwaind and React with Next Js.
+- 🚀 Currently focusing on full-stack development with TypeScript, building modern web applications with robust backend systems.
+- 🌱 Developing real-time applications with advanced socket programming and real-time communication features.
+- 💼 Creating e-commerce solutions with modern frameworks like Next.js and Nest.js.
+- 🔧 Continuously improving my skills in TypeScript, real-time technologies, and scalable application architecture.
 
 ## My Projects
 
 Here are some of my notable projects:
 
-1. [Snake Game](https://github.com/chwaleed/Snake-Game) - A classic Snake Game implementation focusing on game logic. Control the snake to eat food pellets, grow longer, and avoid collisions. Simple yet addictive gameplay.
-2. [Student Login System](https://github.com/chwaleed/Students-Login-System-C-) -  A basic Student login System implementation of logic of find the user matching the username and password if exists and give the access of the portal.If the username or password does not match feature to forget password.
-3. [Resturant Site](https://caterserv-project.netlify.app/) - A Resultrant Site with modern frond-end with responsive design. Using HTLM,CSS,JavaScript and React. Fully responsive font-end projecct.
-4. [Shopping Site](https://e-commerce-project-site.netlify.app/) - Front-end Project of a shopping website in React Js. Dynamic Data feching and displaying the products.
-5. [Tools Website](https://st-tools.netlify.app/) - A tools Website for students to find CPGA and convert their text into lower, upper or any format they want. We also working on adding new features.
+1. **Real-Time Chat App** (JavaScript 96.3%) - A real-time messaging application with instant communication features and modern UI/UX design.
+2. **Watch Store** (TypeScript 93.6%) - An e-commerce watch store built with Next.js and Nest.js, featuring full-stack development with modern TypeScript architecture.
+3. **Local Network Collaborative Drawing Pad** (JavaScript 97.4%) - A web app for collaborative drawing on local networks with real-time synchronization and multi-user support.
+4. **Local Send Clone** (JavaScript 96.2%) - A file sharing application clone that enables seamless file transfer between devices on the same network.
+5. **Tip-Tap Content Editor** (TypeScript 82.8%) - A rich text editor project built with modern web technologies and TypeScript for enhanced functionality.
+6. **Basic Dept Animated Site** (JavaScript 95.5%) - An animated website showcasing advanced CSS animations and interactive user experiences.
+7. **LeetCode Solutions** (JavaScript 100%) - My comprehensive collection of algorithm and data structure solutions, demonstrating problem-solving skills.
 
 Feel free to explore more projects in my repositories!
 
 ## My Skills
 
-- **Languages:** HTML, CSS, JavaScript, C++.
-- **Frameworks/Libraries:** React.js, Bootstrap, Framer Motion, Gsap, Tailwaind.
+- **Languages:** HTML, CSS, JavaScript, TypeScript, C++.
+- **Frameworks/Libraries:** React.js, Next.js, Nest.js, Bootstrap, Framer Motion, Gsap, Tailwind.
+- **Styling:** CSS, SCSS, Tailwind, Bootstrap.
 - **Tools:** Git, VS Code.
-- **Others:** Responsive Design, RESTful APIs, UI/UX Design.
+- **Others:** Responsive Design, RESTful APIs, UI/UX Design, Real-time communication, Socket programming.
 
 ## Get in Touch
 
