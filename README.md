@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 💻 I'm a full-stack developer with 3+ years of experience in modern web technologies.
+- 💻 I'm a full-stack developer with 5+ years of experience in modern web technologies.
 - 🌐 I'm enthusiastic about front-end development, back-end development, real-time applications, and everything in between.
 - 🎓 I hold a degree/certification in FSc in Pakistan. Due to my keen interest in development I started web development.
 - 📫 You can reach me at chwaleeedmueez@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)!
