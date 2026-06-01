@@ -1,60 +1,94 @@
+# Hi, I'm Muhammad Waleed
 
-# Welcome to Muhammad Waleed's GitHub Profile!
+[![GitHub followers](https://img.shields.io/github/followers/chwaleed?label=Follow&style=social)](https://github.com/chwaleed?tab=followers)
+[![Email](https://img.shields.io/badge/Email-chwaleeedmueez%40gmail.com-red?style=social&logo=gmail)](mailto:chwaleeedmueez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chwaleed-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/chwaleed)
+[![Profile views](https://komarev.com/ghpvc/?username=chwaleed&color=blue&style=flat)](https://komarev.com/ghpvc/?username=chwaleed)
 
-👋 Hi there! Welcome to my GitHub profile. I'm Muhammad Waleed, a passionate full-stack developer who loves building amazing things for the web. Here you'll find a collection of my projects, contributions, and coding journey.
+Full Stack Engineer with 4+ years of experience and a Computer Science background, specializing in scalable web applications, RESTful APIs, automation tools, and production-level debugging.
 
-## About Me
+I work across JavaScript, TypeScript, React, Node.js, PostgreSQL, MongoDB, serverless architectures, and full development lifecycles from database design through deployment.
 
-- 💻 I'm a full-stack developer with 5+ years of experience in modern web technologies.
-- 🌐 I'm enthusiastic about front-end development, back-end development, real-time applications, and everything in between.
-- 🎓 I hold a degree/certification in FSc in Pakistan. Due to my keen interest in development I started web development.
-- 📫 You can reach me at chwaleeedmueez@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)!
+<div align="center">
+  <details>
+    <summary><b>GitHub Metrics</b></summary>
+    <br>
+    <img src="https://metrics.lecoq.io/chwaleed?template=classic&isocalendar=1&languages=1&followup=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&followup.sections=repositories&achievements.threshold=C&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKarachi" alt="Muhammad Waleed GitHub metrics">
+  </details>
+</div>
 
 ## What I'm Working On
 
-- 🚀 Currently, I'm focusing on full-stack development with TypeScript.
-- 🌱 I'm currently working on real-time applications and e-commerce solutions.
-- 💡 Exploring advanced backend development with Nest.js and modern frontend frameworks.
+- Building production web applications across React, Node.js, Laravel, PostgreSQL, Shopify, eBay, Cloudflare, Bubble.io, and Webflow integrations.
+- Developing a decentralized degree verification system using Ethereum, Next.js, TypeScript, and PostgreSQL.
+- Maintaining open-source work such as GhostComplete, a lightweight React library for consistent input auto-complete behavior.
+- Growing deeper in TypeScript, Docker, Kubernetes, AWS Lambda, FastAPI, RAG-based AI systems, CI/CD, Cypress, and Playwright.
 
-## My Projects
+## Public Repositories
 
-Here are some of my notable projects:
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| Technology | Ranked Projects |
+| - | - |
+| [![MERN Stack](https://img.shields.io/static/v1?label=&message=MERN%20Stack&color=3C873A&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/mern-stack) | [![AdFlow-Pro](https://img.shields.io/static/v1?label=&message=AdFlow-Pro&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/AdFlow-Pro) |
+| [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF)](https://nextjs.org/) | [![True-Feedback-Full-Stack-App](https://img.shields.io/static/v1?label=&message=True-Feedback-Full-Stack-App&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/True-Feedback-Full-Stack-App) [![cold-store-pos-nextjs](https://img.shields.io/static/v1?label=&message=cold-store-pos-nextjs&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/cold-store-pos-nextjs) |
+| [![Socket.io](https://img.shields.io/static/v1?label=&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF)](https://socket.io/) | [![Real-Time-Chat-App](https://img.shields.io/static/v1?label=&message=Real-Time-Chat-App&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/Real-Time-Chat-App) [![Local-Network-Collaborative-Drawing-Pad](https://img.shields.io/static/v1?label=&message=Local-Network-Collaborative-Drawing-Pad&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/Local-Network-Collaborative-Drawing-Pad) |
+| [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=000000)](https://react.dev/) | [![Verbia-AI](https://img.shields.io/static/v1?label=&message=Verbia-AI&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/Verbia-AI) [![basic-dept-animated-site](https://img.shields.io/static/v1?label=&message=basic-dept-animated-site&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/basic-dept-animated-site) |
+| [![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF)](https://dart.dev/) | [![flutter-todo](https://img.shields.io/static/v1?label=&message=flutter-todo&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/flutter-todo) [![Quiz-app](https://img.shields.io/static/v1?label=&message=Quiz-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/Quiz-app) |
+| [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![Full-Stack-Portfolio-Sanity-Backend](https://img.shields.io/static/v1?label=&message=Full-Stack-Portfolio-Sanity-Backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/Full-Stack-Portfolio-Sanity-Backend) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000)](https://javascript.info/) | [![LeetCode](https://img.shields.io/static/v1?label=&message=LeetCode&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/LeetCode) [![Snake-Game](https://img.shields.io/static/v1?label=&message=Snake-Game&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/Snake-Game) [![local-send-clone](https://img.shields.io/static/v1?label=&message=local-send-clone&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/local-send-clone) |
+| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![Resturant_Website](https://img.shields.io/static/v1?label=&message=Resturant_Website&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/Resturant_Website) [![Pharmacy-Managment-System](https://img.shields.io/static/v1?label=&message=Pharmacy-Managment-System&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/chwaleed/Pharmacy-Managment-System) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-1. **[Watch Store](https://github.com/chwaleed/watchstore)** - An e-commerce watch store built with Next.js and Nest.js. Features modern TypeScript architecture, responsive design, and full-stack implementation.
+## Skills
 
-2. **[Real-Time Chat App](https://github.com/chwaleed/Real-Time-Chat-App)** - A real-time messaging application with live communication features. Built with JavaScript and real-time technologies for seamless user interaction.
+| Area | Tools |
+| - | - |
+| Languages | JavaScript, TypeScript, Python, PHP |
+| Stacks | MERN, MEAN, PERN, Next.js full-stack apps, Laravel apps, FastAPI services, serverless apps |
+| Frontend | React.js, Next.js, HTML5, CSS3, Tailwind CSS, shadcn/ui, Ant Design, Vue.js basics |
+| Backend | Node.js, Laravel, Supabase, REST API design and integration, FastAPI |
+| Databases | PostgreSQL, MySQL, MongoDB |
+| Cloud and DevOps | Serverless architecture, AWS Lambda, Cloudflare Workers, Docker, CI/CD pipelines |
+| Testing and Monitoring | Cypress, Playwright, Sentry, PostHog |
+| Practices | Code reviews, debugging, software design principles, responsive design, accessibility |
 
-3. **[Local Network Collaborative Drawing Pad](https://github.com/chwaleed/Local-Network-Collaborative-Drawing-Pad)** - A web application where users can collaborate on drawing in real-time over local networks. Features session management and live synchronization.
+## Latest Activity
 
-4. **[Local Send Clone](https://github.com/chwaleed/local-send-clone)** - A file sharing application clone that enables easy file transfer between devices on the same network.
+[![GitHub Streak](https://streak-stats.demolab.com?user=chwaleed&theme=default&hide_border=true)](https://git.io/streak-stats)
 
-5. **[Tip-Tap Content Editor](https://github.com/Zahid-Alee/Tip-Tap-CP)** - A rich text editor project built with TypeScript and SCSS, featuring modern content editing capabilities.
+## Connect
 
-6. **[Basic Dept Animated Site](https://github.com/chwaleed/basic-dept-animated-site)** - An animated website showcasing modern web animations and interactive design elements.
+- Email: [chwaleeedmueez@gmail.com](mailto:chwaleeedmueez@gmail.com)
+- GitHub: [@chwaleed](https://github.com/chwaleed)
+- LinkedIn: [Muhammad Waleed](https://www.linkedin.com/in/chwaleed)
 
-7. **[LeetCode Solutions](https://github.com/chwaleed/LeetCode)** - My collection of algorithm and data structure solutions, demonstrating problem-solving skills and coding proficiency.
+Thanks for visiting. Feel free to explore my repositories and reach out if you want to build something useful together.
 
-Feel free to explore more projects in my repositories!
+## Party Parrots
 
-## My Skills
-
-- **Languages:** HTML, CSS, JavaScript, TypeScript, C++
-- **Frontend:** React.js, Next.js, Bootstrap, Tailwind CSS, SCSS, Framer Motion, GSAP
-- **Backend:** Nest.js, Node.js, RESTful APIs
-- **Real-time Technologies:** WebSockets, Socket.io, Real-time communication
-- **Tools:** Git, VS Code, Docker
-- **Others:** Responsive Design, UI/UX Design, Full-stack Development, E-commerce Solutions
-
-## Get in Touch
-
-- 📧 Email: chwaleeedmueez@gmail.com
-- 💬 LinkedIn: [Muhammad Waleed](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@M_Waleed_Dev](https://twitter.com/M_Waleed_Dev)
-
-## Support
-
-If you find any of my projects helpful or interesting, consider giving them a ⭐️. It helps others discover them too!
-
-## Thank You
-
-Thank you for visiting my GitHub profile! Feel free to reach out and connect. Let's build something awesome together! 😊
+<div align="center">
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>

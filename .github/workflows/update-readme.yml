@@ -1,0 +1,48 @@
+name: Update README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - scripts/update-profile-stack.mjs
+      - .github/workflows/update-readme.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile-stack:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Update profile stack
+        run: node scripts/update-profile-stack.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: chwaleed
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "README is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update ranked project stack"
+          git push
