@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chwaleed-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/chwaleed)
 [![Profile views](https://komarev.com/ghpvc/?username=chwaleed&color=blue&style=flat)](https://komarev.com/ghpvc/?username=chwaleed)
 
-Full Stack Engineer with 4+ years of experience and a Computer Science background, specializing in scalable web applications, RESTful APIs, automation tools, and production-level debugging.
+Full Stack Engineer who helps turn ideas into reliable web applications, with a focus on clean code, practical problem solving, and smooth user experiences.
 
 I work across JavaScript, TypeScript, React, Node.js, PostgreSQL, MongoDB, serverless architectures, and full development lifecycles from database design through deployment.
 
